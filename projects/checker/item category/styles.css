@@ -1,0 +1,21 @@
+div.btn{
+	display:inline-block;
+	color:#444;
+	border:1px solid #CCC;
+    background:#DDD;
+    box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+    cursor:pointer;
+    vertical-align:middle;
+    padding: 5px;
+    text-align: center;
+    height: 85px;
+    width: 95px;
+}
+
+table.ordersheet td{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+table.ordersheet {
+    border-collapse: collapse;
+}
